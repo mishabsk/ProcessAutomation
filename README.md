@@ -3,7 +3,8 @@ Automation of Files
 
 1. Automating Data Extraction from PDF
    Please refer to files:
-
+   *File 1
+   *File 2
 
 2. Automating Data Extraction from Word Files
    Please refer to files:
